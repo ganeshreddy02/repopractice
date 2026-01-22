@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ganesh:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2026-01-22T08:04:25.486898514Z"
+    description: A Helm chart for Kubernetes
+    digest: 496b7f8f9ba320b7d8fc4027a9b9b9e0d58d3468e088e43205857549a1450866
+    name: ganesh
+    type: application
+    urls:
+    - ganesh-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-01-22T08:04:25.486355746Z"
